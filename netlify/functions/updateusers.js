@@ -4,14 +4,14 @@
 // ========== ADMIN FIJO (NO EDITAR) ==========
 const FIXED_ADMIN = {
   username: "admin",
-  password: "cflixadmin26",
+  password: "fpadmin26",
   expiresAt: "2026-12-16"
 };
 // ============================================
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const REPO_OWNER = process.env.REPO_OWNER || "virtualformacion";
-const REPO_NAME = process.env.REPO_NAME || "cineflix";
+const REPO_NAME = process.env.REPO_NAME || "freeperu";
 const FILE_PATH = process.env.FILE_PATH || "script.js";
 const BRANCH = process.env.BRANCH || "main";
 
