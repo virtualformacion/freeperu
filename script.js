@@ -1,6 +1,5 @@
 // ========== USUARIOS AUTORIZADOS ==========
 const USERS = [
-    { username: "milton5aa3", password: "14105", expiresAt: new Date("2026-02-19") },
     { username: "Wilsvy1", password: "14105", expiresAt: new Date("2026-02-28") },
     { username: "Nyxw1", password: "14105", expiresAt: new Date("2026-02-25") },
     { username: "Wilsvy2", password: "14105", expiresAt: new Date("2026-02-25") },
