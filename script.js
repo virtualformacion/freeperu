@@ -1,6 +1,6 @@
 // ========== USUARIOS AUTORIZADOS ==========
 const USERS = [
-
+    { username: "1111", password: "1111", expiresAt: new Date("2026-02-12") }
 ];
 
 const MAX_ATTEMPTS = 1000000;
