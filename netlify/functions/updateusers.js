@@ -4,7 +4,7 @@
 // ========== ADMIN FIJO (NO EDITAR) ==========
 const FIXED_ADMIN = {
   username: "admin",
-  password: "fpadmin26",
+  password: "net0720",
   expiresAt: "2026-12-16"
 };
 // ============================================
